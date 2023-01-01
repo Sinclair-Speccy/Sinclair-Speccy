@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [The Mainframe (my website)](https://github.com/Sinclair-Speccy/The-Mainframe)
+- 🔭 I’m currently working on: [The Mainframe (my website)](https://github.com/Sinclair-Speccy/The-Mainframe)
 
-- 🌱 I’m currently learning **More HTML and CSS?**
+- 🌱 I’m currently learning: **More HTML and CSS?**
 
-- Here's some of my python code from school work I had to do [Coding stuff](https://github.com/Sinclair-Speccy/Coding-stuff)
+- Here's some of my python code from school work I had to do: [Coding stuff](https://github.com/Sinclair-Speccy/Coding-stuff)
 
-- 👨‍💻 All of my projects are available at [https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html](https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html)
+- 👨‍💻 All of my projects are available at: [https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html](https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html)
 
-- 📝 Find my reviews and guides here [https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html](https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html)
+- 📝 Find my reviews and guides here: [https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html](https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html)
 
-- 💬 Ask me about **Retro tech stuff :)**
+- 💬 Ask me about: **Retro tech stuff :)**
 
-- 📫 How to reach me **sinclairspeccy82@yahoo.com**
+- 📫 How to reach me: **sinclairspeccy82@yahoo.com**
 
-- I have a Matrix account [@sinclair-speccy:matrix.org](@sinclair-speccy:matrix.org)
+- I have a Matrix account: [@sinclair-speccy:matrix.org](@sinclair-speccy:matrix.org)
 
-- And a Mastodon **https://bitbang.social/@SinclairSpeccy**
+- And a Mastodon: **https://bitbang.social/@SinclairSpeccy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
