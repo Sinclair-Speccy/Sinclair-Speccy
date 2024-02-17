@@ -23,7 +23,7 @@
 
 - I have a Matrix account: [@sinclair-speccy:matrix.org](@sinclair-speccy:matrix.org)
 
-- And a Mastodon: **https://bitbang.social/@SinclairSpeccy**
+- And a Mastodon: **https://oldbytes.space/@SinclairSpeccy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
