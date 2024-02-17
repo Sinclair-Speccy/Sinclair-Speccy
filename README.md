@@ -13,9 +13,9 @@
 
 - Here's some of my python code from school work I had to do: [Coding stuff](https://github.com/Sinclair-Speccy/Coding-stuff)
 
-- 👨‍💻 All of my projects are available at: [https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html](https://sinclair-speccy.github.io/The-Mainframe/personalprojects.html)
+- 👨‍💻 Some of my "projects" are available at: https://sinclair-speccy.github.io/The-Mainframe/Personal-Projects.html, https://sinclair-speccy.github.io/The-Mainframe/The-Writers-Desk/Fictional-Settings and https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Tech-Deck/index.html
 
-- 📝 Find my reviews and guides here: [https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html](https://sinclair-speccy.github.io/The-Mainframe/reviewsandguides.html)
+- 📝 Find my reviews and guides here: https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Reviews/Reviews.html & https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Guides/Guides.html
 
 - 💬 Ask me about: **Retro tech stuff :)**
 
