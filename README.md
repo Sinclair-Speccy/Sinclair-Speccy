@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on: [The Mainframe (my website)](https://github.com/Sinclair-Speccy/The-Mainframe)
+- 🔭 I’m currently working on: [The Mainframe (my website)](https://github.com/Sinclair-Speccy/sinclair-speccy.github.io)
 
 - 🌱 I’m currently learning: **More HTML and CSS?**
 
 - Here's some of my python code from school work I had to do: [Coding stuff](https://github.com/Sinclair-Speccy/Coding-stuff)
-
-- 👨‍💻 Some of my "projects" are available at: https://sinclair-speccy.github.io/The-Mainframe/Personal-Projects.html, https://sinclair-speccy.github.io/The-Mainframe/The-Writers-Desk/Fictional-Settings and https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Tech-Deck/index.html
-
-- 📝 Find my reviews and guides here: https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Reviews/Reviews.html & https://sinclair-speccy.github.io/The-Mainframe/Server-Rack/Guides/Guides.html
 
 - 💬 Ask me about: **Retro tech stuff :)**
 
